@@ -8,5 +8,13 @@ If you have never contributed to GitHub before, here is a guide https://bits.ash
 
 
 # Publications/Magazines
-209 MAGAZINE (link to rapzines.com link) Independent bay area magazine.
+209 MAGAZINE (link to rapzines.com link) Independent bay area magazine. Add Photo from any issue
+
 4080 MAGAZINE 90's Bay area magazine
+
+# Publishers
+Dennis S Page (XXL Magazine) maybe add the year 
+# Writers 
+Maybe add folks websites and or social media handles
+# Photographers
+Maybe add folks websites and or social media handles
