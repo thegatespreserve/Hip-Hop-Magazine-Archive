@@ -4,7 +4,7 @@ Archive for hip-hop magazines and publications from the late 80's to the 2000's 
 Inspired by Brian over at RapZines.com and V from https://thimk.wordpress.com
 
 HERE is our detailed archive of hip-hop magazines 
-https://airtable.com/shr3FuAJO4xs1qXV8
+bit.ly/HipHopMagArchive
 NOTE: The article does NOT list every article in the magazine, just the cover story and features. The contributors of the magazine ARE listed under the masthead section.
 
 HERE is a link to contribute to our archive
