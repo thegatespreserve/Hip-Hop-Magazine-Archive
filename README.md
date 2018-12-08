@@ -5,6 +5,7 @@ Inspired by Brian over at RapZines.com and V from https://thimk.wordpress.com
 
 HERE is our detailed archive of hip-hop magazines 
 https://airtable.com/shr3FuAJO4xs1qXV8
+NOTE: The article does NOT list every article in the magazine, just the cover story and features. The contributors of the magazine ARE listed under the masthead section.
 
 HERE is a link to contribute to our archive
 https://airtable.com/shrdCKEt0nIQ0CKCd
