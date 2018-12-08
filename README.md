@@ -3,7 +3,12 @@ Archive for hip-hop magazines and publications from the late 80's to the 2000's 
 
 Inspired by Brian over at RapZines.com
 
-HERE is a spreadsheet (please request access to contribute) with the metadata from hip-hop magazines.
+HERE is our detailed archive of hip-hop magazines 
+https://airtable.com/shr3FuAJO4xs1qXV8
+
+HERE is a link to contribute to our archive
+https://airtable.com/shrdCKEt0nIQ0CKCd
+
 
 # As a hip-hop archivist, I want to create a database using metadata from 3 issues from each of the following hip-hop magazines: The Source, VIBE and XXL, so I can provide a proof-of-concept for how I wants to perform a large-scale metadata extraction from hard copies of hip-hop publications
 
