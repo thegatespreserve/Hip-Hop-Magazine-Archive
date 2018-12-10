@@ -7,8 +7,7 @@ If you have never contributed to GitHub before, [here](https://bits.ashleyblewer
 
 Inspired by Brian over at [RapZines.com](rapzines.com) and V from [Thimk.Wordpress.com](https://thimk.wordpress.com)
 
-[HERE](bit.ly/HipHopMagArchive) is our detailed archive of hip-hop magazines 
-(bit.ly/HipHopMagArchive)
+[HERE](bit.ly/HipHopMagArchive) is our detailed archive of hip-hop magazines [bit.ly/HipHopMagArchive] (bit.ly/HipHopMagArchive)
 
 NOTE: The article does NOT list every article in the magazine, just the cover story and features. The contributors of the magazine ARE listed under the masthead section.
 
